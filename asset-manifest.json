@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/HOC-Movie-App/static/css/main.6581f263.chunk.css",
+    "main.js": "/HOC-Movie-App/static/js/main.47e7834b.chunk.js",
+    "main.js.map": "/HOC-Movie-App/static/js/main.47e7834b.chunk.js.map",
+    "runtime-main.js": "/HOC-Movie-App/static/js/runtime-main.d4340fd3.js",
+    "runtime-main.js.map": "/HOC-Movie-App/static/js/runtime-main.d4340fd3.js.map",
+    "static/css/2.7ad897a5.chunk.css": "/HOC-Movie-App/static/css/2.7ad897a5.chunk.css",
+    "static/js/2.047d7319.chunk.js": "/HOC-Movie-App/static/js/2.047d7319.chunk.js",
+    "static/js/2.047d7319.chunk.js.map": "/HOC-Movie-App/static/js/2.047d7319.chunk.js.map",
+    "index.html": "/HOC-Movie-App/index.html",
+    "precache-manifest.8f89da9bc3c472ba7e1c841ba51156a9.js": "/HOC-Movie-App/precache-manifest.8f89da9bc3c472ba7e1c841ba51156a9.js",
+    "service-worker.js": "/HOC-Movie-App/service-worker.js",
+    "static/css/2.7ad897a5.chunk.css.map": "/HOC-Movie-App/static/css/2.7ad897a5.chunk.css.map",
+    "static/css/main.6581f263.chunk.css.map": "/HOC-Movie-App/static/css/main.6581f263.chunk.css.map",
+    "static/js/2.047d7319.chunk.js.LICENSE.txt": "/HOC-Movie-App/static/js/2.047d7319.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4340fd3.js",
+    "static/css/2.7ad897a5.chunk.css",
+    "static/js/2.047d7319.chunk.js",
+    "static/css/main.6581f263.chunk.css",
+    "static/js/main.47e7834b.chunk.js"
+  ]
+}
